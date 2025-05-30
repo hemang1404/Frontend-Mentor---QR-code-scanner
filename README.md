@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hemang1404/Frontend-Mentor---QR-code-scanner)
-- Live Site URL: [Add live site URL here](https://hemang1404.github.io/Frontend-Mentor---QR-code-scanner/)
+- Solution URL: [My repository](https://github.com/hemang1404/Frontend-Mentor---QR-code-scanner)
+- Live Site URL: [My deployed solution](https://hemang1404.github.io/Frontend-Mentor---QR-code-scanner/)
 
 ## My process
 
